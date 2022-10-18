@@ -1,0 +1,19 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "<h1> Começando a praticar JavaScript</h1>",
+  "main": "class-client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucassGuge/Estudo-JavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucassGuge/Estudo-JavaScript/issues"
+  },
+  "homepage": "https://github.com/lucassGuge/Estudo-JavaScript#readme"
+}
